@@ -13,7 +13,7 @@ Besides Corporate life, I am a certified Project Management Professional (PMP) a
 📊 Areas of Expertise:
 - Project & Program Management (Agile, Hybrid, Waterfall)
 - PMO Development & Governance
-- ITSM Tools (ServiceNow, Odoo, Dynamics AX)
+- ITSM Tools (ServiceNow, Odoo, Microsoft Dynamics AX, CASDM,JIRA)
 - ITSM Implementation & Delivery
 - Client Engagement & Delivery Excellence
 
