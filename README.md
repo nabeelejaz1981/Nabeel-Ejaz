@@ -2,7 +2,7 @@
 
 🎯 **Senior Manager – Enterprise Managed Services|Project Management** at [Inbox Business Technologies](https://www.inboxbiz.com)
 
-💼 PMP, PMI-ACP, and Scrum Certified | Leading ITSM Transformation & PMO Initiatives
+💼 PMP, PMI-ACP, ITIL and Scrum Certified | Leading ITSM Transformation & PMO Initiatives
 
 🛠️ Well versed in Enterprise Project Management, ITSM Implementation, Service Delivery Management, Pre-Sales Solutions, Resource Management, SLA Management, Risk Management, Distribution Strategy, Promotion Planning, Digital Transformation
 Successfully Launched & Delivered Multiple large-scale projects including Odoo ERP Deployment, Makkah Route Immigration Project (Saudi Arabia), PTCL IT Managed Services (657 Sites), Data Center Turnkey Solutions, Resource Augmentation Projects, Biometric Digital Solutions, Education Broadband Centers
